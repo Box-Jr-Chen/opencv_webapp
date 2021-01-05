@@ -1,7 +1,6 @@
 absl-py==0.10.0
 aiohttp==3.6.2
 altgraph==0.17
-argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
 asgiref==3.3.1
 astunparse==1.6.3
 async-generator==1.10
@@ -45,7 +44,7 @@ Jinja2==2.11.2
 jsonschema @ file:///C:/ci/jsonschema_1601490672432/work
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
 jupyter-core==4.6.3
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-pygments
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
 Markdown==3.2.2
@@ -53,11 +52,11 @@ MarkupSafe==1.1.1
 matplotlib==3.3.2
 mistune==0.8.4
 multidict==4.7.6
-nbclient @ file:///tmp/build/80754af9/nbclient_1601059699549/work
-nbconvert @ file:///C:/ci/nbconvert_1601914925608/work
+nbclient
+nbconvert
 nbformat==5.0.7
-nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1601499549014/work
-notebook @ file:///C:/ci/notebook_1601501643625/work
+nest-asyncio
+notebook
 numpy==1.18.5
 oauthlib==3.1.0
 opencv-python==4.4.0.44
@@ -71,17 +70,17 @@ pickleshare==0.7.5
 Pillow==7.2.0
 prometheus-client==0.8.0
 promise==2.3
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1598885458782/work
+prompt-toolkit
 protobuf==3.13.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser
 pydot==1.4.1
-Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+Pygments
 pyinstaller==4.1
 pyinstaller-hooks-contrib==2020.11
 pyparsing==2.4.7
-pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
+pyrsistent
 python-dateutil==2.8.1
 pytz==2020.1
 pywin32==227
@@ -110,13 +109,13 @@ terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.4
 tqdm==4.50.0
-traitlets @ file:///tmp/build/80754af9/traitlets_1600712679583/work
+traitlets
 typeguard==2.9.1
 urllib3==1.25.10
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wcwidth
 webencodings==0.5.1
 Werkzeug==1.0.1
-widgetsnbextension @ file:///D:/bld/widgetsnbextension_1603129674993/work
+widgetsnbextension
 wincertstore==0.2
 wrapt==1.12.1
 yarl==1.6.0
