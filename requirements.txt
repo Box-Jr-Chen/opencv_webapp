@@ -5,13 +5,13 @@ asgiref==3.3.1
 astunparse==1.6.3
 async-generator==1.10
 async-timeout==3.0.1
-attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+attrs
 backcall==0.2.0
 beautifulsoup4==4.9.3
-bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+bleach
 cachetools==4.1.1
 certifi==2020.6.20
-cffi @ file:///C:/ci/cffi_1600699246375/work
+cffi
 chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
@@ -33,16 +33,16 @@ graphviz==0.14.2
 grpcio==1.32.0
 h5py==2.10.0
 idna==2.10
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593446511143/work
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1598865816163/work
+importlib-metadata
+ipykernel
+ipython
 ipython-genutils==0.2.0
-ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1599554010055/work
+ipywidgets
 itsdangerous==1.1.0
-jedi @ file:///C:/ci/jedi_1598353661586/work
+jedi
 Jinja2==2.11.2
-jsonschema @ file:///C:/ci/jsonschema_1601490672432/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jsonschema
+jupyter-client
 jupyter-core==4.6.3
 jupyterlab-pygments
 Keras-Preprocessing==1.1.2
