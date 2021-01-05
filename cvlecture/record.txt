@@ -1,6 +1,6 @@
-13.local repository& github
+16.server DB setting
 
-2:08
+1:13
 
 # 作者網站
 https://www.cvlecture.marearts.com/
